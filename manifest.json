@@ -1,6 +1,5 @@
 {
-  "baseUrl": "https://CHANGE-ME.example.com/tw/",
-  "generatedAt": "2026-06-21T13:06:07.252Z",
+  "generatedAt": "2026-06-21T13:17:26.009Z",
   "scripts": [
     {
       "id": "account_manager.js",
@@ -23,7 +22,7 @@
     {
       "id": "planner.js",
       "name": "planner.js",
-      "version": "hf5879cb6",
+      "version": "h6dce86c0",
       "dest": "xxqiuwevaqr.js",
       "includes": []
     },
@@ -48,7 +47,7 @@
     {
       "id": "single_village_sender.js",
       "name": "single_village_sender.js",
-      "version": "h95be5a93",
+      "version": "hcb046fff",
       "dest": "lanfefnakjfnas6.js",
       "includes": []
     }
