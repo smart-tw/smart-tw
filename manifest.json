@@ -1,0 +1,56 @@
+{
+  "baseUrl": "https://CHANGE-ME.example.com/tw/",
+  "generatedAt": "2026-06-21T13:06:07.252Z",
+  "scripts": [
+    {
+      "id": "account_manager.js",
+      "name": "TwManager",
+      "version": "0.7",
+      "dest": "aksnfasjad2.js",
+      "includes": [
+        "*:/*.tribalwars*/*game.php*"
+      ]
+    },
+    {
+      "id": "mass_scaveging.js",
+      "name": "TwScav",
+      "version": "0.7",
+      "dest": "kabfbdfjas1.js",
+      "includes": [
+        "*:/*.tribalwars*/*mode=scavenge_mass"
+      ]
+    },
+    {
+      "id": "planner.js",
+      "name": "planner.js",
+      "version": "hf5879cb6",
+      "dest": "xxqiuwevaqr.js",
+      "includes": []
+    },
+    {
+      "id": "single_village_builder.js",
+      "name": "TwBuilder",
+      "version": "0.8",
+      "dest": "lfnqurefbdjs3.js",
+      "includes": [
+        "*:/*.tribalwars*/*&screen=main*"
+      ]
+    },
+    {
+      "id": "single_village_recruiter.js",
+      "name": "TwRecruiter",
+      "version": "0.7",
+      "dest": "iauqwfiquw4.js",
+      "includes": [
+        "*:/*.tribalwars*/*screen=train*"
+      ]
+    },
+    {
+      "id": "single_village_sender.js",
+      "name": "single_village_sender.js",
+      "version": "h95be5a93",
+      "dest": "lanfefnakjfnas6.js",
+      "includes": []
+    }
+  ]
+}
