@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T16:12:23.218Z",
+  "generatedAt": "2026-06-21T16:42:01.288Z",
   "scripts": [
     {
       "id": "account_manager.js",
@@ -40,7 +40,7 @@
     {
       "id": "single_village_sender.js",
       "name": "single_village_sender.js",
-      "version": "h6b526400",
+      "version": "h6720f99a",
       "dest": "lanfefnakjfnas6.js",
       "includes": []
     }
