@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-21T13:26:05.030Z",
+  "generatedAt": "2026-06-21T14:33:09.542Z",
   "scripts": [
     {
       "id": "account_manager.js",
       "name": "TwManager",
-      "version": "0.7",
+      "version": "0.9",
       "dest": "aksnfasjad2.js",
       "includes": [
         "*:/*.tribalwars*/*game.php*"
@@ -13,7 +13,7 @@
     {
       "id": "mass_scaveging.js",
       "name": "TwScav",
-      "version": "0.7",
+      "version": "0.8",
       "dest": "kabfbdfjas1.js",
       "includes": [
         "*:/*.tribalwars*/*mode=scavenge_mass"
@@ -40,7 +40,7 @@
     {
       "id": "single_village_sender.js",
       "name": "single_village_sender.js",
-      "version": "h523129fc",
+      "version": "h3a3e4449",
       "dest": "lanfefnakjfnas6.js",
       "includes": []
     }
